@@ -1,4 +1,4 @@
-# kai-Hackathon-2021sp
+# Kkai-Hackathon-2021sp
 K会春季集中講座で書いたコード群です
 
 TSP-DP.cpp : 巡回セールスマン問題（DP）  
